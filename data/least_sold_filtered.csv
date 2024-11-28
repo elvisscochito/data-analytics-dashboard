@@ -1,0 +1,513 @@
+City,Types,IdVentas,SalesQuantity,SalesDollars,SuggestedDiscount,AdjustedDiscount,Country
+Aberdeen,Brandy,1c112b55-36fe-40d2-a4d7-acea15f9ba56,9,19.99,1.999,3.998,Escocia
+Aberdeen,Cocktail,076fcb3a-8793-45a4-b2d0-ab1525c6192d,9,26.97,2.697,5.394,Escocia
+Aberdeen,Cognac,cd079b41-33de-4d37-af39-03d0538e61e4,7,94.99,9.499,18.998,Escocia
+Aberdeen,Gin,3c08ae16-df5e-481e-8573-a6ecafe385ad,5,33.99,3.399,6.798,Escocia
+Aberdeen,Licores,8dd23e04-599c-4383-9657-365b70cc9b9a,5,13.99,1.399,2.798,Escocia
+Aberdeen,Otros,379d341b-e7bb-47f6-9f88-3601955550e5,53,6.99,0.699,1.398,Escocia
+Aberdeen,Ron,5f32ef8e-3353-4336-a778-f91054c0ac7e,5,14.99,1.499,2.998,Escocia
+Aberdeen,Tequila,49820359-9960-4144-9f3c-464574ef2f7e,5,44.99,4.499,8.998,Escocia
+Aberdeen,Vino,00487619-4559-4cc3-bab5-3f187bad716f,5,9.99,0.999,1.998,Escocia
+Aberdeen,Vino Espumoso,e32add33-046a-4cb5-b327-235999ab05c2,5,15.99,1.599,3.198,Escocia
+Aberdeen,Vodka,29d4317c-fa94-42b1-8e8b-a5c3b770e316,7,49.99,4.999,9.998,Escocia
+Aberdeen,Whiskey,3085ede1-50c5-4576-98f4-8860efc1ee68,5,64.99,6.499,12.998,Escocia
+Alnwick,Brandy,466b5adf-e0c8-49b2-ae9c-11be66e58221,1,19.99,1.999,3.998,Inglaterra
+Alnwick,Cocktail,16709291-348a-46d4-be4c-b578bcdf1592,1,10.99,1.099,2.198,Inglaterra
+Alnwick,Cognac,3337dae1-0eda-4394-883d-d5bf4157094a,1,37.99,3.799,7.598,Inglaterra
+Alnwick,Gin,1c97c1f1-78f5-4619-b192-be5ec4cb13cb,1,29.99,2.999,5.998,Inglaterra
+Alnwick,Licores,0a0a1eb1-8384-4687-bd41-35ea531ae4ba,1,19.99,1.999,3.998,Inglaterra
+Alnwick,Otros,0900bd6f-9648-4444-8043-3bc57d31f21e,1,8.99,0.899,1.798,Inglaterra
+Alnwick,Ron,096d86c8-770d-4d45-b914-ac09a2f67980,1,19.99,1.999,3.998,Inglaterra
+Alnwick,Tequila,0f11d8dc-9df4-4754-9429-453a524f91ce,1,26.99,2.699,5.398,Inglaterra
+Alnwick,Vino,00b00607-6d29-4140-aba2-4307b348b48a,1,10.99,1.099,2.198,Inglaterra
+Alnwick,Vino Espumoso,0a56b11f-c38a-4c78-8426-ee53f9ac0c0b,1,17.99,1.799,3.598,Inglaterra
+Alnwick,Vodka,079ef5e6-4c35-48b7-9192-665b72076b31,1,18.99,1.899,3.798,Inglaterra
+Alnwick,Whiskey,005efbf6-d5d2-4f42-b05e-05a2aade96bf,1,79.99,7.999,15.998,Inglaterra
+Arran,Brandy,6ae9d7d1-ef8d-4d56-8eac-0d170ab281db,15,25.47,2.547,5.094,Escocia
+Arran,Cocktail,eae345e4-8b43-48bb-87af-7cdd14e96af8,7,35.97,3.597,7.194,Escocia
+Arran,Cognac,bd7a5d67-1e65-4e5c-822f-d68cedad48c7,7,46.99,4.699,9.398,Escocia
+Arran,Gin,97776eaa-cc46-48a8-9dd8-e4c04a3e4515,5,24.99,2.499,4.998,Escocia
+Arran,Licores,2d0e0e52-be08-4462-b462-39662832d014,5,19.99,1.999,3.998,Escocia
+Arran,Otros,5bd001a2-890a-4558-be2a-dd819027a2a7,7,59.99,5.999,11.998,Escocia
+Arran,Ron,9ffbb9e2-4a02-40e0-a4bb-dd7492e9e3cd,5,28.99,2.899,5.798,Escocia
+Arran,Tequila,1ce40290-ae65-4566-b1da-f092cb293dcd,5,28.99,2.899,5.798,Escocia
+Arran,Vino,020cdead-06d5-4ece-8e53-ac6d6b35a2c3,5,17.99,1.799,3.598,Escocia
+Arran,Vino Espumoso,65d77b8d-82d9-4909-8e1a-de89ea50f83b,5,104.99,10.499,20.998,Escocia
+Arran,Vodka,bec7e6ca-5f93-4d91-b2e1-10e2972e0749,5,23.99,2.399,4.798,Escocia
+Arran,Whiskey,2c089627-5dc4-48c3-9828-4ed04eb93194,5,46.99,4.699,9.398,Escocia
+Athelney,Brandy,f4649045-25bf-447a-b921-b42d29e876b4,6,65.98,6.598,13.196,Inglaterra
+Athelney,Cocktail,4ff6921d-0b1d-44f4-b725-143c2aeb8f77,5,10.99,1.099,2.198,Inglaterra
+Athelney,Cognac,8b22a59e-2aa9-4c4e-9142-99c5a4df87e1,6,319.98,31.998,63.996,Inglaterra
+Athelney,Gin,eb1a7664-71ad-409c-9bd0-16166b361777,5,33.99,3.399,6.798,Inglaterra
+Athelney,Licores,0a55726c-858d-44c6-9990-28b40c978751,5,13.99,1.399,2.798,Inglaterra
+Athelney,Otros,2140e715-0be9-4b51-9f5f-1881db9c2552,5,28.99,2.899,5.798,Inglaterra
+Athelney,Ron,1c420bdc-1634-4e48-8bdc-217c65885586,7,39.99,3.999,7.998,Inglaterra
+Athelney,Tequila,0f1162f7-0df6-4c4c-9e7d-75cd74f11337,5,81.99,8.199,16.398,Inglaterra
+Athelney,Vino,032c6de8-9834-4b24-87bb-cfbda69e920d,5,13.99,1.399,2.798,Inglaterra
+Athelney,Vino Espumoso,97b8a6a8-28f7-4da8-8afd-20e7c25f5074,5,12.99,1.299,2.598,Inglaterra
+Athelney,Vodka,3c1779ec-eaa0-40cf-9e2f-e5e99bb1ee60,5,49.99,4.999,9.998,Inglaterra
+Athelney,Whiskey,091aa49f-2644-479b-9200-4334216ae8a3,5,114.99,11.499,22.998,Inglaterra
+Ballymena,Brandy,264c92fd-9c9d-48a8-8fa4-6e8858672654,1,24.99,2.499,4.998,Irlanda del Norte
+Ballymena,Cocktail,e947fd60-68b4-4dcf-8a78-a9bc27467458,1,11.99,1.199,2.398,Irlanda del Norte
+Ballymena,Cognac,47b6bf88-6a66-4c60-bb76-547f421681e2,1,23.99,2.399,4.798,Irlanda del Norte
+Ballymena,Gin,58767c4b-17f4-47a7-a7c0-19c27e6f688f,1,29.99,2.999,5.998,Irlanda del Norte
+Ballymena,Licores,5ceda28c-eaba-4ce8-b40e-466f4e8ad8a5,1,35.99,3.599,7.198,Irlanda del Norte
+Ballymena,Otros,052184ac-21ef-4420-bc09-c2e924a85972,1,56.99,5.699,11.398,Irlanda del Norte
+Ballymena,Ron,3694a5d6-b015-4809-9d50-f0a8fe281925,1,19.99,1.999,3.998,Irlanda del Norte
+Ballymena,Tequila,32566ac9-9f3f-49b7-8208-b617d7eeb93f,1,61.99,6.199,12.398,Irlanda del Norte
+Ballymena,Vino,0bb56779-f908-4727-9ce1-12c5496d3196,1,14.99,1.499,2.998,Irlanda del Norte
+Ballymena,Vino Espumoso,40019ba0-8c1e-4b18-845c-0037154f90bb,1,15.99,1.599,3.198,Irlanda del Norte
+Ballymena,Vodka,96860e6f-93b0-4b91-99fa-56c9c4aae86f,2,9.99,0.999,1.998,Irlanda del Norte
+Ballymena,Whiskey,6438fff9-7726-464d-8b5c-117a011a95c9,1,38.99,3.899,7.798,Irlanda del Norte
+Banbury,Brandy,5975dfc3-dbb3-4c1f-bd37-6482ecc261ca,1,15.99,1.599,3.198,Inglaterra
+Banbury,Cocktail,a9f680ae-8842-4d35-bcc2-075301235587,2,15.99,1.599,3.198,Inglaterra
+Banbury,Cognac,0de27847-5145-4dc8-8b46-bf92437659b3,1,58.99,5.899,11.798,Inglaterra
+Banbury,Gin,1f8f642a-3280-4761-8f9f-ebce0db00f17,1,27.99,2.799,5.598,Inglaterra
+Banbury,Licores,0093a439-dc05-4437-ade3-0daa97dd604c,1,28.99,2.899,5.798,Inglaterra
+Banbury,Otros,6f53a614-bc62-425e-81c7-6ed6e4ff1076,1,8.99,0.899,1.798,Inglaterra
+Banbury,Ron,3e8cc0e2-7955-45d6-8b2a-46ce3620f6cb,1,14.99,1.499,2.998,Inglaterra
+Banbury,Tequila,17e894db-b61a-4aa0-807f-50687e015c9f,1,28.99,2.899,5.798,Inglaterra
+Banbury,Vino,00597aa0-5ef0-492d-b39f-dcefc592cb40,1,22.99,2.299,4.598,Inglaterra
+Banbury,Vino Espumoso,061916cf-a418-4c9b-9cfd-bf63fc31a7a3,1,19.49,1.949,3.898,Inglaterra
+Banbury,Vodka,294bf53f-1a65-43c6-b7d7-f9e68fbffdbd,1,20.99,2.099,4.198,Inglaterra
+Banbury,Whiskey,02705856-db2a-48d2-97e8-eecf46d14801,1,69.99,6.999,13.998,Inglaterra
+Barnstaple,Brandy,954a3787-cde7-4ae6-beb8-b0ca08c90c60,5,0.99,0.099,0.198,Inglaterra
+Barnstaple,Cocktail,5c2aecd4-959d-4b34-87e6-3cf12bd2423c,5,10.99,1.099,2.198,Inglaterra
+Barnstaple,Cognac,3bc2c1ae-bdf0-4909-b64b-9255b73e4d9b,12,115.96,11.596,23.192,Inglaterra
+Barnstaple,Gin,4f13512a-a527-4151-b32d-8020b2f2590e,8,3.98,0.398,0.796,Inglaterra
+Barnstaple,Licores,48d5cba1-e0d7-4e05-b044-40eac56ab4a1,5,25.99,2.599,5.198,Inglaterra
+Barnstaple,Otros,bdfb746c-5ee7-453b-a6bd-31b087768f76,5,13.99,1.399,2.798,Inglaterra
+Barnstaple,Ron,80f188b2-a13c-4a33-b2f0-b2770bf86bf1,5,13.99,1.399,2.798,Inglaterra
+Barnstaple,Tequila,26c48b9a-7e3f-478c-a349-734507e62686,5,41.99,4.199,8.398,Inglaterra
+Barnstaple,Vino,1b6b0e96-3c1e-4807-acc0-24bd7306bbcb,5,7.99,0.799,1.598,Inglaterra
+Barnstaple,Vino Espumoso,9ce3023c-4f5c-4ad4-813e-fc0b734fbc2f,6,15.98,1.598,3.196,Inglaterra
+Barnstaple,Vodka,b8c487bf-9897-4fb5-b8c4-f9a4ad3d3092,5,56.99,5.699,11.398,Inglaterra
+Barnstaple,Whiskey,18416b43-09e1-4a92-943b-62210f002321,5,38.99,3.899,7.798,Inglaterra
+Barrow-in-Furness,Brandy,cf32f626-6fae-4748-b44a-368f875bd20f,1,21.99,2.199,4.398,Inglaterra
+Barrow-in-Furness,Cocktail,a138c59f-35d9-41e8-8091-db7cfdb02987,1,10.99,1.099,2.198,Inglaterra
+Barrow-in-Furness,Cognac,b017cd98-2544-4511-9449-2e0ef5e57152,2,5.98,0.598,1.196,Inglaterra
+Barrow-in-Furness,Gin,09ca030f-8403-4c04-9b32-1c69fa8a114a,1,26.99,2.699,5.398,Inglaterra
+Barrow-in-Furness,Licores,01bb50e4-2f73-459e-8247-8a3573195085,1,26.99,2.699,5.398,Inglaterra
+Barrow-in-Furness,Otros,b06d7272-439d-468d-8410-5726cec8531b,2,9.49,0.949,1.898,Inglaterra
+Barrow-in-Furness,Ron,19ebde14-2fdc-4b52-9fae-7ac64e052c45,1,9.99,0.999,1.998,Inglaterra
+Barrow-in-Furness,Tequila,1418896b-745d-47c7-8c67-c6f99d698cde,1,32.99,3.299,6.598,Inglaterra
+Barrow-in-Furness,Vino,13ebf9f9-f5a0-4293-9903-62727becf9be,1,13.99,1.399,2.798,Inglaterra
+Barrow-in-Furness,Vino Espumoso,34e32246-6e66-440f-99d3-9d0ce2aa3340,1,6.99,0.699,1.398,Inglaterra
+Barrow-in-Furness,Vodka,0bc1af16-5e25-463f-8620-fd033d097058,1,11.99,1.199,2.398,Inglaterra
+Barrow-in-Furness,Whiskey,0bbea64e-dcdd-49de-9e72-eb65a8df7270,1,31.99,3.199,6.398,Inglaterra
+Bexhill,Brandy,1088c30d-47ac-42be-a468-6ce7a6898b6f,5,0.99,0.099,0.198,Inglaterra
+Bexhill,Cocktail,2f846b4e-0e5e-49ea-a3c9-479fddd57f74,7,10.99,1.099,2.198,Inglaterra
+Bexhill,Cognac,7b6044a1-ec6e-4a47-80fa-72a654f1ba08,7,37.99,3.799,7.598,Inglaterra
+Bexhill,Gin,92471991-3346-401c-a7e0-75bad4bb9706,9,34.99,3.499,6.998,Inglaterra
+Bexhill,Licores,16970683-c5ec-44b7-9e91-50797831d235,5,9.99,0.999,1.998,Inglaterra
+Bexhill,Otros,866b7181-42df-4192-a957-6b9ccaedc682,5,12.99,1.299,2.598,Inglaterra
+Bexhill,Ron,03d76f76-f5d1-4436-aa0b-0f759d418e70,5,15.99,1.599,3.198,Inglaterra
+Bexhill,Tequila,024ef4b0-a91e-42cd-95be-54815c102def,5,29.99,2.999,5.998,Inglaterra
+Bexhill,Vino,21a88dd0-3d79-46fc-800b-460773e21caf,5,10.99,1.099,2.198,Inglaterra
+Bexhill,Vino Espumoso,5eb3283e-6d87-4cf2-9f4c-a9005774cf2a,5,17.99,1.799,3.598,Inglaterra
+Bexhill,Vodka,16c60078-a03d-4a84-a559-6167f0e25b3a,5,16.99,1.699,3.398,Inglaterra
+Bexhill,Whiskey,0c293182-8a91-4305-9134-55f0daef465c,5,39.99,3.999,7.998,Inglaterra
+Blackpool,Brandy,6e7f18a2-17f4-426d-b696-443e0c67d4b7,1,33.99,3.399,6.798,Inglaterra
+Blackpool,Cocktail,088b152d-ad70-48e5-9639-4ae80f14a335,1,10.99,1.099,2.198,Inglaterra
+Blackpool,Cognac,0531b5d5-32b7-4386-a3a7-f36ca53c864d,1,54.99,5.499,10.998,Inglaterra
+Blackpool,Gin,0ec6110d-f8de-44fb-82bd-e51d43c11654,1,34.99,3.499,6.998,Inglaterra
+Blackpool,Licores,0d600bb5-aa06-43a2-82b2-305e0b7272b4,1,9.79,0.979,1.958,Inglaterra
+Blackpool,Otros,31013f5e-3bfd-46ae-8f35-bb1dfb4e8e8d,1,56.99,5.699,11.398,Inglaterra
+Blackpool,Ron,2bd78180-268d-4672-8e11-8404ab6d57d2,1,14.99,1.499,2.998,Inglaterra
+Blackpool,Tequila,0319427e-6e53-41a4-a6b5-9a3865689d75,1,13.99,1.399,2.798,Inglaterra
+Blackpool,Vino,083b37c3-0374-4178-850c-f52a8ad53d47,1,7.99,0.799,1.598,Inglaterra
+Blackpool,Vino Espumoso,0ecff6d3-276e-4478-8ed6-efba9e5a3e28,1,22.99,2.299,4.598,Inglaterra
+Blackpool,Vodka,0badeec4-a370-4e79-b4a2-ec59a429e4fa,1,25.99,2.599,5.198,Inglaterra
+Blackpool,Whiskey,220c5a5f-80ae-4426-9b16-c28a44a43505,1,39.99,3.999,7.998,Inglaterra
+Cardiff,Brandy,6794de37-2c35-4a01-a9d1-5e97cb930520,1,19.99,1.999,3.998,Gales
+Cardiff,Cocktail,1921f6ad-b1ac-4113-9baa-69821681896d,1,7.99,0.799,1.598,Gales
+Cardiff,Cognac,505a7adb-f031-450c-8dfd-a27f61a2f472,1,24.99,2.499,4.998,Gales
+Cardiff,Gin,5c7fd6ce-a560-4598-820e-89f9c7ba7e07,2,27.99,2.799,5.598,Gales
+Cardiff,Licores,0a1ea645-562a-4ea0-97d9-2134b1920be4,1,17.99,1.799,3.598,Gales
+Cardiff,Otros,0d9c7e33-a627-41e0-ab53-d3564c4cc717,1,27.99,2.799,5.598,Gales
+Cardiff,Ron,0293135c-404c-4aef-9aac-4f4367c976b7,1,12.99,1.299,2.598,Gales
+Cardiff,Tequila,0e07e4ea-97a5-4857-9571-d735558ba2f6,1,13.99,1.399,2.798,Gales
+Cardiff,Vino,008d587e-9a23-4b14-b72f-aeabcd753398,1,11.99,1.199,2.398,Gales
+Cardiff,Vino Espumoso,61386844-9bea-47b4-87a0-7b02197142e7,1,145.99,14.599,29.198,Gales
+Cardiff,Vodka,18ab3945-eb39-4b18-992c-1bbf5861af93,1,12.99,1.299,2.598,Gales
+Cardiff,Whiskey,0245b827-8b6d-4378-ba89-a1548ab3c01b,1,99.99,9.999,19.998,Gales
+Chesterfield,Brandy,67d5fb94-e87d-4f85-b82d-54cbf1b8567c,5,16.99,1.699,3.398,Inglaterra
+Chesterfield,Cocktail,e55be9c0-8954-45ef-a972-db7a6a4e60a3,13,15.99,1.599,3.198,Inglaterra
+Chesterfield,Cognac,98340483-3a9e-4ad8-a677-60460b9c7919,6,139.98,13.998,27.996,Inglaterra
+Chesterfield,Gin,85f39ea5-c774-42ba-a6cb-773cbd5b08ba,6,133.98,13.398,26.796,Inglaterra
+Chesterfield,Licores,04baa64c-4790-4a7e-8b4f-976838dc54f8,5,18.99,1.899,3.798,Inglaterra
+Chesterfield,Otros,6f1c3284-c0e4-44fd-82bc-a4d54214487b,5,14.49,1.449,2.898,Inglaterra
+Chesterfield,Ron,4cf8e165-78ae-4c30-9134-a627d8a460ad,5,25.99,2.599,5.198,Inglaterra
+Chesterfield,Tequila,54646d2d-a489-4890-9441-001137fde202,5,16.99,1.699,3.398,Inglaterra
+Chesterfield,Vino,00a278b2-2c9b-4ed7-b711-7b8a3c3a2e31,5,12.99,1.299,2.598,Inglaterra
+Chesterfield,Vino Espumoso,96f8829a-5f15-45c6-a8ea-afc6597f7175,5,104.99,10.499,20.998,Inglaterra
+Chesterfield,Vodka,35d79cd5-9621-4b5e-a14b-fec2768917ad,5,10.99,1.099,2.198,Inglaterra
+Chesterfield,Whiskey,0c03cab1-2b94-47d6-b1ea-16476c7fec2d,5,35.99,3.599,7.198,Inglaterra
+Clacton-on-Sea,Brandy,11f2d2e9-16cd-403f-b419-716262abf924,5,10.49,1.049,2.098,Inglaterra
+Clacton-on-Sea,Cocktail,a4edf89c-7ca8-4496-a4cb-9ae4777d18bd,9,10.99,1.099,2.198,Inglaterra
+Clacton-on-Sea,Cognac,7a593a7d-c14b-4fa5-ab52-1aad3c6266f2,5,199.99,19.999,39.998,Inglaterra
+Clacton-on-Sea,Gin,c4f16834-b022-4932-855b-1c177904d266,6,63.98,6.398,12.796,Inglaterra
+Clacton-on-Sea,Licores,02e98cb1-073c-4417-820a-891780ef427e,5,29.99,2.999,5.998,Inglaterra
+Clacton-on-Sea,Otros,08cd85e8-3b3a-4e33-8f8e-fa80f9fbae1d,5,12.99,1.299,2.598,Inglaterra
+Clacton-on-Sea,Ron,4935ebda-65dd-48e4-a1ed-2d6fba2202b6,5,27.99,2.799,5.598,Inglaterra
+Clacton-on-Sea,Tequila,42ece5c0-2714-4961-9a8b-298ffdad4561,5,32.99,3.299,6.598,Inglaterra
+Clacton-on-Sea,Vino,265cb907-2bcb-4aaa-90c2-4ab3671d1b71,5,8.95,0.895,1.79,Inglaterra
+Clacton-on-Sea,Vino Espumoso,1e7a909a-71c5-4ce7-a195-b3cd0f28cacb,5,20.99,2.099,4.198,Inglaterra
+Clacton-on-Sea,Vodka,27a2279f-5bfc-4f28-babf-bf635c44f3e3,5,34.99,3.499,6.998,Inglaterra
+Clacton-on-Sea,Whiskey,013cc44e-a204-4ddd-9c10-0763f3dee128,5,31.99,3.199,6.398,Inglaterra
+Cleethorpes,Brandy,9c76a355-40bc-43db-861d-ae0dc58d8377,10,37.98,3.798,7.596,Inglaterra
+Cleethorpes,Cocktail,977751e7-8c86-4e37-a931-f01d72aa78e8,6,31.98,3.198,6.396,Inglaterra
+Cleethorpes,Cognac,84f56ade-4480-429b-9630-81025e0e51aa,7,69.99,6.999,13.998,Inglaterra
+Cleethorpes,Gin,bd42d86f-98dc-4a55-8226-5152110c3546,10,13.99,1.399,2.798,Inglaterra
+Cleethorpes,Licores,1e8d20bb-4ab4-442b-9344-f166e27bce75,5,28.99,2.899,5.798,Inglaterra
+Cleethorpes,Otros,5468cdb0-58fe-4b0c-afe5-1a1c25aabb0f,5,18.99,1.899,3.798,Inglaterra
+Cleethorpes,Ron,9cd49689-12e2-4c6d-bb63-784d25010766,5,34.99,3.499,6.998,Inglaterra
+Cleethorpes,Tequila,204829aa-f354-424d-8155-85adfb448756,5,16.99,1.699,3.398,Inglaterra
+Cleethorpes,Vino,01444163-1fb7-43c5-afff-cca01985088d,5,18.99,1.899,3.798,Inglaterra
+Cleethorpes,Vino Espumoso,376068dd-1442-4288-a6e0-60596ce832e8,7,32.99,3.299,6.598,Inglaterra
+Cleethorpes,Vodka,549b1bf6-fe84-4078-8de1-cb15fe8bb8fc,5,56.99,5.699,11.398,Inglaterra
+Cleethorpes,Whiskey,08a4ed54-e9a4-4e97-8bd5-a02c60924f63,5,36.99,3.699,7.398,Inglaterra
+Doncaster,Brandy,074365c5-97e2-4e3b-aaa4-1eab2c6edfaf,6,6.99,0.699,1.398,Inglaterra
+Doncaster,Cocktail,84279ce8-17c5-4471-9ca2-4688bb2c091e,11,5.99,0.599,1.198,Inglaterra
+Doncaster,Cognac,fd64a614-8004-4664-bcfa-52727900ce81,3,39.99,3.999,7.998,Inglaterra
+Doncaster,Gin,a2a6c4e5-8393-4c33-a937-6fadc627d1ac,6,49.98,4.998,9.996,Inglaterra
+Doncaster,Licores,3a1ce59e-146d-4a63-8e46-b8adf85fa582,3,8.99,0.899,1.798,Inglaterra
+Doncaster,Otros,9702f3a2-ae09-4321-8d78-2499e52aa15c,3,54.99,5.499,10.998,Inglaterra
+Doncaster,Ron,3c699976-b763-4026-8cf0-07027feddbf2,5,23.99,2.399,4.798,Inglaterra
+Doncaster,Tequila,2121be32-c976-44fe-af0c-fe7c390b1f70,5,56.99,5.699,11.398,Inglaterra
+Doncaster,Vino,542489a3-b23d-406d-9da2-84be499931db,3,49.99,4.999,9.998,Inglaterra
+Doncaster,Vino Espumoso,44ab2599-a3bc-41e8-8fa6-0512e1c6c061,5,11.99,1.199,2.398,Inglaterra
+Doncaster,Vodka,911f7d98-35fb-48b5-8f28-335c1eb778e7,6,19.98,1.998,3.996,Inglaterra
+Doncaster,Whiskey,19872cc7-94ec-4595-886b-d2a5544e2d94,5,129.99,12.999,25.998,Inglaterra
+Drybrook,Brandy,2d47cf26-62c4-4f50-81d7-fecbc1f85983,5,44.99,4.499,8.998,Inglaterra
+Drybrook,Cocktail,03639106-858c-47c9-a3e1-80b3a419e634,5,5.99,0.599,1.198,Inglaterra
+Drybrook,Cognac,6484e594-906a-4ea6-8bdd-f7edfff42884,7,113.97,11.397,22.794,Inglaterra
+Drybrook,Gin,54a2f94b-4772-481a-ac00-6e8fa8dc092b,5,34.99,3.499,6.998,Inglaterra
+Drybrook,Licores,0dbfbb0d-41d8-4359-8491-b67b81b9e903,5,24.99,2.499,4.998,Inglaterra
+Drybrook,Otros,5ec6519e-daed-42df-a526-3db80a450a92,5,56.99,5.699,11.398,Inglaterra
+Drybrook,Ron,0d3da6bb-4841-426a-8cea-8d951329a6c5,5,16.99,1.699,3.398,Inglaterra
+Drybrook,Tequila,77ce087e-8a46-4429-94f8-56cdd3f797ae,5,79.99,7.999,15.998,Inglaterra
+Drybrook,Vino,05de9a1e-a27b-44ac-a2cf-b0fac68ee956,5,14.99,1.499,2.998,Inglaterra
+Drybrook,Vino Espumoso,c5e7875c-00d7-47eb-a5b9-499844d28c14,5,11.99,1.199,2.398,Inglaterra
+Drybrook,Vodka,142f9f6a-1f14-4f2c-a77f-b7e12bdf04bb,5,39.99,3.999,7.998,Inglaterra
+Drybrook,Whiskey,09ea8930-f329-47f7-b50f-9ce8921ed17b,5,115.99,11.599,23.198,Inglaterra
+Eastbourne,Brandy,8df0cfa7-f638-4d6a-aca5-d654a7c4fba8,3,19.99,1.999,3.998,Inglaterra
+Eastbourne,Cocktail,09280f8d-fca4-4d49-9d46-53b22aa64141,6,11.99,1.199,2.398,Inglaterra
+Eastbourne,Cognac,2402c340-e8aa-4224-994d-564dcbf43a42,5,40.99,4.099,8.198,Inglaterra
+Eastbourne,Gin,f2f2b555-e927-414a-9de6-85aced3cca85,3,26.99,2.699,5.398,Inglaterra
+Eastbourne,Licores,aa504274-be3c-4301-bc63-76d26c329390,3,20.99,2.099,4.198,Inglaterra
+Eastbourne,Otros,0ddd2657-4988-49f3-9543-44097512f69a,3,8.99,0.899,1.798,Inglaterra
+Eastbourne,Ron,5e9649aa-17b0-48c9-99c7-19ec47d7ebd1,3,23.99,2.399,4.798,Inglaterra
+Eastbourne,Tequila,25a2a5d8-0ca8-4cbf-9541-5243ae11cdc4,3,47.99,4.799,9.598,Inglaterra
+Eastbourne,Vino,21e78553-98f9-4c07-89ae-9de8a02364bd,3,18.99,1.899,3.798,Inglaterra
+Eastbourne,Vino Espumoso,1d231efa-5516-4543-882e-da3591a816c7,3,17.99,1.799,3.598,Inglaterra
+Eastbourne,Vodka,388b951f-c0a9-4772-b943-4e4f44973b38,3,10.99,1.099,2.198,Inglaterra
+Eastbourne,Whiskey,1df6e5e7-2567-4c9f-a0bf-89d3a5bd54e7,3,47.99,4.799,9.598,Inglaterra
+Gargrave,Brandy,99fbe4a0-46dc-4e9f-8a43-e1bc5de61d1a,9,27.99,2.799,5.598,Inglaterra
+Gargrave,Cocktail,597bd249-a7e5-4907-9b5a-967c12f64dc0,7,18.99,1.899,3.798,Inglaterra
+Gargrave,Cognac,9c38b189-66d9-4fb0-9604-4a5a6fb16f06,5,39.99,3.999,7.998,Inglaterra
+Gargrave,Gin,e47e7288-d4de-43a6-8cf1-3df3f206d260,5,46.99,4.699,9.398,Inglaterra
+Gargrave,Licores,0ca65016-94db-44f8-bf30-abc83f3d4ad2,5,29.99,2.999,5.998,Inglaterra
+Gargrave,Otros,481dc401-b5dd-4438-96b1-c28a4d02c070,5,29.99,2.999,5.998,Inglaterra
+Gargrave,Ron,9dfd639e-2504-4501-89de-2d86c2e11df1,6,79.98,7.998,15.996,Inglaterra
+Gargrave,Tequila,11ddc04a-0330-4cc1-af58-1929ba51dd8b,5,25.99,2.599,5.198,Inglaterra
+Gargrave,Vino,04feda0b-5bc6-4679-b275-d1dba48c57ad,5,14.99,1.499,2.998,Inglaterra
+Gargrave,Vino Espumoso,7f89bf4d-9f23-40ee-b827-e7836e833d3d,5,15.99,1.599,3.198,Inglaterra
+Gargrave,Vodka,356ebc61-2531-4dce-b18a-751144540cea,5,14.99,1.499,2.998,Inglaterra
+Gargrave,Whiskey,3232126b-a1e1-453f-be4f-f718d20074bb,5,37.99,3.799,7.598,Inglaterra
+Gloucester,Brandy,be6f4a62-82e4-4334-8fb5-ef295785aa0d,12,6.99,0.699,1.398,Inglaterra
+Gloucester,Cocktail,32add135-5b1d-4ff3-b717-576205a64414,9,12.99,1.299,2.598,Inglaterra
+Gloucester,Cognac,ac59ee90-e4c6-4e9e-a1f9-23fab64fa371,5,23.99,2.399,4.798,Inglaterra
+Gloucester,Gin,b0e68a75-7ef8-4a32-919b-5dbac318fa6c,7,33.99,3.399,6.798,Inglaterra
+Gloucester,Licores,1cfbad4f-cdf5-4c2c-89ca-eb8fd75ab19e,5,12.99,1.299,2.598,Inglaterra
+Gloucester,Otros,5f3bae9c-10f9-4b49-a470-d5c9942dd719,7,14.99,1.499,2.998,Inglaterra
+Gloucester,Ron,02c6d57b-d746-4fa9-95c1-97647116c000,5,10.99,1.099,2.198,Inglaterra
+Gloucester,Tequila,2b5000d0-4b00-40c1-8e4e-b3df1b9cc5e1,5,39.99,3.999,7.998,Inglaterra
+Gloucester,Vino,0f2ba69e-6f75-4a32-80bb-a82c2d53bf96,5,13.99,1.399,2.798,Inglaterra
+Gloucester,Vino Espumoso,b98b7054-f6d0-4065-b0c6-2aaaca5475b8,5,14.99,1.499,2.998,Inglaterra
+Gloucester,Vodka,8362ac8e-a7a7-4a98-a9b2-a6a59703dd40,5,15.99,1.599,3.198,Inglaterra
+Gloucester,Whiskey,6f50777e-7563-4b6f-a740-e6c2769098ff,5,259.99,25.999,51.998,Inglaterra
+Grays,Brandy,0ae35850-b6a6-4636-ae71-85ad2c089ed8,5,14.99,1.499,2.998,Inglaterra
+Grays,Cocktail,ea51f0d5-54b1-4170-be53-557e1905aaad,10,18.99,1.899,3.798,Inglaterra
+Grays,Cognac,fa21dbac-b9ae-473d-ac8c-9ba523e00729,24,29.98,2.998,5.996,Inglaterra
+Grays,Gin,aa70a2d3-5d0f-4d4a-906e-58e305d82cad,8,29.99,2.999,5.998,Inglaterra
+Grays,Licores,1b2a1772-f129-4718-8aa3-632180ee450c,5,13.99,1.399,2.798,Inglaterra
+Grays,Otros,f4657855-1664-4ed5-ae15-70bab2d9dc24,11,8.99,0.899,1.798,Inglaterra
+Grays,Ron,0d7c6e15-a1a0-43fd-b60c-2a5fe52e82c5,5,32.99,3.299,6.598,Inglaterra
+Grays,Tequila,bad00b52-d77a-41f2-87da-c3d30f8bc518,5,16.99,1.699,3.398,Inglaterra
+Grays,Vino,027abd0e-191b-4152-8a20-7f8860a2ab13,5,25.99,2.599,5.198,Inglaterra
+Grays,Vino Espumoso,37b5800b-38f7-4efe-b556-9c7db5a447d5,5,15.99,1.599,3.198,Inglaterra
+Grays,Vodka,28c6c60d-3b15-43cd-842b-d25f81e3f582,5,12.99,1.299,2.598,Inglaterra
+Grays,Whiskey,18c7918c-f40e-4ac3-8d68-a6d70bda1a04,5,39.99,3.999,7.998,Inglaterra
+Guisborough,Brandy,6b00139f-5eea-499a-b9e9-34c335395d14,5,18.99,1.899,3.798,Inglaterra
+Guisborough,Cocktail,bc4ea6a5-dee9-40c0-b9bc-45413b2f8412,9,15.99,1.599,3.198,Inglaterra
+Guisborough,Cognac,282c08ff-54e4-438a-ab87-bf786ccb45cb,5,54.99,5.499,10.998,Inglaterra
+Guisborough,Gin,4092e991-d6ce-40c0-b5b3-7186a65d7125,5,12.99,1.299,2.598,Inglaterra
+Guisborough,Licores,87f28c1a-7d4e-46b9-b9b0-d54260f79779,5,12.99,1.299,2.598,Inglaterra
+Guisborough,Otros,79d61c0f-ebc5-48cc-acd4-3b284f6c66ff,10,16.99,1.699,3.398,Inglaterra
+Guisborough,Ron,1af9b7a3-eb2a-4f6c-ac6d-6c0da7c1ca64,5,23.99,2.399,4.798,Inglaterra
+Guisborough,Tequila,46be7501-0462-4e48-a01a-86938338eb24,5,16.99,1.699,3.398,Inglaterra
+Guisborough,Vino,0052f9bd-a0fd-43f6-bcc2-fb5820b3085e,5,15.99,1.599,3.198,Inglaterra
+Guisborough,Vino Espumoso,204f0ab0-d9e8-4570-9ecf-83b5b418d702,5,54.99,5.499,10.998,Inglaterra
+Guisborough,Vodka,00080129-e3f8-48d1-9a23-ef1c22c4fb3a,5,17.99,1.799,3.598,Inglaterra
+Guisborough,Whiskey,034896f5-c0fa-4dac-9347-0e00a16363fa,5,28.99,2.899,5.798,Inglaterra
+Hartlepool,Brandy,202e7809-d2f6-4f6a-94e6-b9a42d95a86d,17,10.99,1.099,2.198,Inglaterra
+Hartlepool,Cocktail,17016752-b2cf-4b9a-9764-8943ef611c8f,7,18.99,1.899,3.798,Inglaterra
+Hartlepool,Cognac,2df08ca2-7597-4c49-b319-e2433a6c03aa,7,28.99,2.899,5.798,Inglaterra
+Hartlepool,Gin,e510fa30-2891-4d5e-aee0-4d892b2446a3,5,29.99,2.999,5.998,Inglaterra
+Hartlepool,Licores,602be1aa-d39a-4c4c-b5be-a16bd034b2cc,5,18.99,1.899,3.798,Inglaterra
+Hartlepool,Otros,a43ece07-1e3e-41b9-b366-330bd55566ef,6,29.98,2.998,5.996,Inglaterra
+Hartlepool,Ron,130608ae-3448-4a75-b4fb-83afd4e06eda,5,14.99,1.499,2.998,Inglaterra
+Hartlepool,Tequila,1713ef52-ce65-48cd-9bbf-7761df526e1a,5,47.99,4.799,9.598,Inglaterra
+Hartlepool,Vino,0a303166-d435-4156-a951-fe55367816da,5,8.49,0.849,1.698,Inglaterra
+Hartlepool,Vino Espumoso,a45d2f33-98b9-40ef-9577-f9ef817df9b3,5,37.99,3.799,7.598,Inglaterra
+Hartlepool,Vodka,925456fa-f20e-4b32-82ab-01417f787127,5,21.99,2.199,4.398,Inglaterra
+Hartlepool,Whiskey,2f7b581f-12d5-4e4f-b97a-416f80368862,5,119.99,11.999,23.998,Inglaterra
+Hornsea,Brandy,0638d683-94c7-4820-89f2-fc55051c08b3,1,28.99,2.899,5.798,Inglaterra
+Hornsea,Cocktail,8b432712-0659-4110-a009-3fa7853fce49,1,10.99,1.099,2.198,Inglaterra
+Hornsea,Cognac,e80057df-4e8a-437d-9f0a-7f1ba65b7eab,1,24.49,2.449,4.898,Inglaterra
+Hornsea,Gin,1116d798-f6d8-4004-a464-a5f86c5ef483,1,25.99,2.599,5.198,Inglaterra
+Hornsea,Licores,0190bf50-78de-49d6-b54e-6e008a946c4d,1,19.99,1.999,3.998,Inglaterra
+Hornsea,Otros,1b60abb1-047a-4885-a86c-53bdb96221e8,1,12.99,1.299,2.598,Inglaterra
+Hornsea,Ron,0b722757-f0d8-4fdf-94bb-a7487a163c2e,1,21.99,2.199,4.398,Inglaterra
+Hornsea,Tequila,08f41ad2-79fd-4025-ad2b-2935c2d52a5c,1,54.99,5.499,10.998,Inglaterra
+Hornsea,Vino,01586045-54b7-42c2-b98e-96575a24cd34,1,12.99,1.299,2.598,Inglaterra
+Hornsea,Vino Espumoso,00b6aec1-5a1a-48b0-9e7a-9186261a6844,1,5.99,0.599,1.198,Inglaterra
+Hornsea,Vodka,5e1562a7-f4b1-4de3-a6dd-2a92c57d4615,1,14.99,1.499,2.998,Inglaterra
+Hornsea,Whiskey,002d0cdd-c86c-414a-b32d-71c27894ded8,1,38.99,3.899,7.798,Inglaterra
+Huddersfield,Brandy,300807dc-8eea-4e67-bb1c-61a1fecff40b,1,24.99,2.499,4.998,Inglaterra
+Huddersfield,Cocktail,518316c2-935d-4c23-86e4-a322e7a44949,1,18.99,1.899,3.798,Inglaterra
+Huddersfield,Cognac,001b8f7f-b06e-4033-900c-efc403191eb3,1,25.99,2.599,5.198,Inglaterra
+Huddersfield,Gin,20c4cc7e-7122-4757-9ade-7491fe66f7db,1,36.99,3.699,7.398,Inglaterra
+Huddersfield,Licores,1baa2b50-39a3-4f8b-9d10-ef527b299bee,1,44.99,4.499,8.998,Inglaterra
+Huddersfield,Otros,63a3faaf-b91c-4405-8870-a2ed456f1ce3,1,12.99,1.299,2.598,Inglaterra
+Huddersfield,Ron,0f0c1862-2b90-429d-b739-1690688480c9,1,35.99,3.599,7.198,Inglaterra
+Huddersfield,Tequila,081b39d3-67c2-4467-9fba-73b7de291daf,1,41.99,4.199,8.398,Inglaterra
+Huddersfield,Vino,04d94576-6a29-4fa9-aad5-95813c589e03,1,14.99,1.499,2.998,Inglaterra
+Huddersfield,Vino Espumoso,37b46acd-d268-4ca0-a995-62e6908bc00d,1,17.99,1.799,3.598,Inglaterra
+Huddersfield,Vodka,10888d58-da5e-42b2-b7f1-1f47b2054ec8,1,12.99,1.299,2.598,Inglaterra
+Huddersfield,Whiskey,04b92c16-4ee7-4f87-b3dd-9f6d134f927c,1,69.99,6.999,13.998,Inglaterra
+Inverness,Brandy,397c76d7-6d4e-479a-839c-3e90a74fe3f1,5,19.99,1.999,3.998,Escocia
+Inverness,Cocktail,ba256ef5-07e4-404f-a420-de62f08d47af,8,43.98,4.398,8.796,Escocia
+Inverness,Cognac,41f17839-5740-4ae3-a637-efb1ee5a1401,7,33.99,3.399,6.798,Escocia
+Inverness,Gin,446d65a0-c74d-4a39-9198-4e13ec1c39aa,5,24.99,2.499,4.998,Escocia
+Inverness,Licores,8cb41cb1-f438-458f-a79f-2545b203952b,5,24.99,2.499,4.998,Escocia
+Inverness,Otros,08dbecd4-f968-495a-b2ba-272177213963,5,14.49,1.449,2.898,Escocia
+Inverness,Ron,1c3279ac-b2b1-4b2a-b57a-7c561f77a66f,5,27.49,2.749,5.498,Escocia
+Inverness,Tequila,02bae8dc-2d18-4e2e-ac85-9f3eacbb99d4,5,44.99,4.499,8.998,Escocia
+Inverness,Vino,02a03bcc-e7f7-4bf6-ae27-2474be8ea95a,5,13.99,1.399,2.798,Escocia
+Inverness,Vino Espumoso,42ce6100-bafd-4102-adc7-1f614564824c,6,71.98,7.198,14.396,Escocia
+Inverness,Vodka,541dd6a9-3185-4bd4-b2e7-a1580ef273c4,5,32.99,3.299,6.598,Escocia
+Inverness,Whiskey,06967bb0-a95e-416f-b806-360395702339,5,64.99,6.499,12.998,Escocia
+Keld,Brandy,fc4cbaa9-651d-4d2e-bac9-3b8eef4ba132,5,24.99,2.499,4.998,Inglaterra
+Keld,Cocktail,86b2fb78-1ebf-4612-936a-dae91ea3da02,7,8.99,0.899,1.798,Inglaterra
+Keld,Cognac,7274cd83-0115-4639-962d-743e9e0b7d6d,11,39.99,3.999,7.998,Inglaterra
+Keld,Gin,9050fb57-8cc5-4733-87c8-94c1ac229fac,7,65.97,6.597,13.194,Inglaterra
+Keld,Licores,419fa43f-cb82-4096-ad9a-dba10f3e660c,5,18.99,1.899,3.798,Inglaterra
+Keld,Otros,35b07ad5-17fd-4cf5-b2d2-b0061cf5d7e5,5,8.99,0.899,1.798,Inglaterra
+Keld,Ron,6a6de8c4-8df7-43ef-83e4-47ba594d71c6,5,14.99,1.499,2.998,Inglaterra
+Keld,Tequila,43221405-9c93-41c4-9f5f-8b54d266aa9c,5,12.99,1.299,2.598,Inglaterra
+Keld,Vino,03c513f1-d5ce-45d9-af7a-671f201f12c9,5,17.99,1.799,3.598,Inglaterra
+Keld,Vino Espumoso,46817f1b-009e-4a03-a8e5-55b95f710e54,5,36.99,3.699,7.398,Inglaterra
+Keld,Vodka,2f047915-e09f-47f6-a66e-8c5514a22c52,5,15.99,1.599,3.198,Inglaterra
+Keld,Whiskey,1821a55e-b3ad-44f9-8aac-a18c45b09a70,5,34.99,3.499,6.998,Inglaterra
+Kilmarnock,Brandy,11514e0e-c159-4a32-bb74-88c0341805f8,12,19.99,1.999,3.998,Escocia
+Kilmarnock,Cocktail,3bd559a2-56a9-4021-9710-b42e4215c7ee,7,8.99,0.899,1.798,Escocia
+Kilmarnock,Cognac,70ed7eb2-bcb1-4473-acbf-1915cdf8f91b,5,24.49,2.449,4.898,Escocia
+Kilmarnock,Gin,4aefc444-a832-4a81-a40c-f0fc212b82cb,9,28.99,2.899,5.798,Escocia
+Kilmarnock,Licores,3c65c494-8303-498c-8aa5-6f98d86588dc,5,19.99,1.999,3.998,Escocia
+Kilmarnock,Otros,dc1c62ca-b87e-4fc2-8b78-791ca014f89a,5,13.99,1.399,2.798,Escocia
+Kilmarnock,Ron,2ed2c066-613e-44e8-8dd3-c765706f0ec3,5,33.99,3.399,6.798,Escocia
+Kilmarnock,Tequila,9395e27b-9369-4ca3-a5bb-26d70cd015dc,5,44.99,4.499,8.998,Escocia
+Kilmarnock,Vino,12f8b6e3-606b-4d33-9d3a-b62d38b93638,5,13.99,1.399,2.798,Escocia
+Kilmarnock,Vino Espumoso,ebc9337a-98e2-44da-9b67-a8a130efc6de,5,37.99,3.799,7.598,Escocia
+Kilmarnock,Vodka,058accc5-cd2e-4e5a-a800-68e65cadfc83,5,19.99,1.999,3.998,Escocia
+Kilmarnock,Whiskey,00322858-4539-472a-afc6-3b83b1aa1690,5,16.99,1.699,3.398,Escocia
+Lanteglos,Brandy,5d36a1d3-da0d-4374-93a3-09902be8bf41,7,12.99,1.299,2.598,Inglaterra
+Lanteglos,Cocktail,fef90d05-aa9c-4486-8f5e-4862801e047f,8,13.98,1.398,2.796,Inglaterra
+Lanteglos,Cognac,6bb9689d-a796-4bb7-a0a5-c07c6962492e,5,52.99,5.299,10.598,Inglaterra
+Lanteglos,Gin,5252072e-f761-4d2f-b92d-402b3d25d16c,5,12.99,1.299,2.598,Inglaterra
+Lanteglos,Licores,09f44ec3-ee10-4239-914d-dd403aae222e,5,29.99,2.999,5.998,Inglaterra
+Lanteglos,Otros,720ff484-22f4-4442-8aab-d783678d528e,10,8.95,0.895,1.79,Inglaterra
+Lanteglos,Ron,287b17b5-e26a-4ce5-9a67-c6ff095581ee,5,13.99,1.399,2.798,Inglaterra
+Lanteglos,Tequila,30c5c6b4-1826-4ae8-bccd-da8c5ea85da5,5,13.99,1.399,2.798,Inglaterra
+Lanteglos,Vino,032b47b0-564c-4c41-bd8a-e81e490cd94d,5,9.99,0.999,1.998,Inglaterra
+Lanteglos,Vino Espumoso,b7cabff0-68ae-417f-ae85-c41b9343f1f4,5,10.99,1.099,2.198,Inglaterra
+Lanteglos,Vodka,a1e26b1c-3223-4e3f-b383-38242df7395f,5,11.99,1.199,2.398,Inglaterra
+Lanteglos,Whiskey,138481fb-1dee-4d71-b8ec-9ad97d1468a6,5,19.99,1.999,3.998,Inglaterra
+Leeds,Brandy,2f6dbe98-40bc-46b4-870d-8df22e1b741d,1,12.99,1.299,2.598,Inglaterra
+Leeds,Cocktail,4ef89d12-ea07-4e49-aa3f-6b9975bdce1d,1,10.99,1.099,2.198,Inglaterra
+Leeds,Cognac,0c2d456d-aa8d-4063-970e-68b986697d53,1,40.99,4.099,8.198,Inglaterra
+Leeds,Gin,11d164ac-ea07-4cfe-9b08-8857505892f9,1,12.99,1.299,2.598,Inglaterra
+Leeds,Licores,02220fe4-199d-4c26-a8fd-dbe317d13e33,1,7.99,0.799,1.598,Inglaterra
+Leeds,Otros,148f8412-cc03-4f44-aff8-ae24b2a5ade8,1,12.99,1.299,2.598,Inglaterra
+Leeds,Ron,07870461-2fd7-4b46-9d71-56175c1e442d,1,11.99,1.199,2.398,Inglaterra
+Leeds,Tequila,08323571-fe54-428a-a4b9-34ba3ac78f32,1,39.99,3.999,7.998,Inglaterra
+Leeds,Vino,061262e7-8e69-489b-bb0f-7cf9161571bc,1,17.99,1.799,3.598,Inglaterra
+Leeds,Vino Espumoso,5b2b5d95-0213-4029-8684-964d94e52beb,1,145.99,14.599,29.198,Inglaterra
+Leeds,Vodka,07de492c-c749-4e4f-a128-6a1162300070,1,19.99,1.999,3.998,Inglaterra
+Leeds,Whiskey,0f2b3a3c-0aa5-45e4-b854-91d38f3c4fda,1,34.99,3.499,6.998,Inglaterra
+Lundy,Brandy,4f3489c2-ce59-4f56-b8b4-d448a0910810,1,16.99,1.699,3.398,Inglaterra
+Lundy,Cocktail,c097144c-6af1-43e6-aba3-9e2ce18e3521,1,5.99,0.599,1.198,Inglaterra
+Lundy,Cognac,3801c95f-543a-4a9e-abbc-d9ce9667a869,1,24.49,2.449,4.898,Inglaterra
+Lundy,Gin,6a443b37-9628-430f-a009-8028f39d5e9c,1,36.99,3.699,7.398,Inglaterra
+Lundy,Licores,0029dd47-52ce-475b-beaf-b5b30e93626d,1,29.99,2.999,5.998,Inglaterra
+Lundy,Otros,d696ad85-52e0-494a-badc-433a437e1f62,1,7.99,0.799,1.598,Inglaterra
+Lundy,Ron,3f5b8b69-7f7a-4a28-8896-fccdc3d1ed54,1,12.99,1.299,2.598,Inglaterra
+Lundy,Tequila,1fc8d899-a8f8-4384-ac7f-1f03d06a1e16,1,55.99,5.599,11.198,Inglaterra
+Lundy,Vino,03480b20-441c-4f62-a42b-543efb103a30,1,10.99,1.099,2.198,Inglaterra
+Lundy,Vino Espumoso,fa986e3f-de6e-4944-a766-c988474d4769,1,9.99,0.999,1.998,Inglaterra
+Lundy,Vodka,0d32c40c-e07f-4903-bbee-25c94a59f7e5,1,22.99,2.299,4.598,Inglaterra
+Lundy,Whiskey,05f0c6b0-93fc-405f-811c-3581e4f4ba20,1,49.99,4.999,9.998,Inglaterra
+Luton,Brandy,0cae0e97-cd9d-48f1-805a-1bbf5f909356,5,11.99,1.199,2.398,Inglaterra
+Luton,Cocktail,e5a3e021-fdb7-4644-9a05-8e380e237385,22,17.99,1.799,3.598,Inglaterra
+Luton,Cognac,522cf9bb-6519-41e6-a62b-0fa4092acf45,5,34.99,3.499,6.998,Inglaterra
+Luton,Gin,d8c35123-834e-4c9b-a52f-db0bec35385e,5,14.99,1.499,2.998,Inglaterra
+Luton,Licores,0dbeddb9-94ea-44cd-9752-d98dee6ac2a6,5,9.99,0.999,1.998,Inglaterra
+Luton,Otros,9d9d701a-d72a-4cf6-97da-ec237083b8e6,20,53.7,5.37,10.74,Inglaterra
+Luton,Ron,47fde399-2543-44c0-a5b7-1228af9703ba,5,13.99,1.399,2.798,Inglaterra
+Luton,Tequila,9c8f7a13-c7dc-4dd3-8626-976d4ceba7b0,11,59.99,5.999,11.998,Inglaterra
+Luton,Vino,15b40a0c-038b-43b3-a2b2-bf0f7c962873,5,10.99,1.099,2.198,Inglaterra
+Luton,Vino Espumoso,1923aa03-c9f1-47d2-b2a7-09cfaa10cbbd,5,34.99,3.499,6.998,Inglaterra
+Luton,Vodka,19f98161-d907-46ed-87c1-8fb7cb95c271,5,17.99,1.799,3.598,Inglaterra
+Luton,Whiskey,0d5b54d3-2c4f-40d5-a184-a7ffa9fc6a51,5,59.99,5.999,11.998,Inglaterra
+Monmouth,Brandy,05b2fd08-d1ab-489d-97f8-c55be49b8090,5,32.99,3.299,6.598,Inglaterra
+Monmouth,Cocktail,218b82cd-e531-4ecc-a853-01a5ccc58871,7,26.97,2.697,5.394,Inglaterra
+Monmouth,Cognac,c35e7b67-4750-4d57-88a1-54d5abd06845,5,39.99,3.999,7.998,Inglaterra
+Monmouth,Gin,0d113441-7dc3-43bd-af7e-d3b81b2e4112,5,24.99,2.499,4.998,Inglaterra
+Monmouth,Licores,0a50bb8c-44f2-4034-ae84-2edb3cad17c0,5,21.99,2.199,4.398,Inglaterra
+Monmouth,Otros,5c50cf05-5c1b-419c-ac4a-e9e9854ca6fd,5,12.99,1.299,2.598,Inglaterra
+Monmouth,Ron,0b960159-3328-4c22-9a83-f604d4666cad,5,12.99,1.299,2.598,Inglaterra
+Monmouth,Tequila,1cb78dab-5ea6-462a-b8e0-9e0705d40b86,5,44.99,4.499,8.998,Inglaterra
+Monmouth,Vino,018629e1-2e6c-4b94-9c84-5dd86b1bebc0,5,24.99,2.499,4.998,Inglaterra
+Monmouth,Vino Espumoso,1c407082-17a3-434e-b6c9-d1fea1a834a8,5,134.99,13.499,26.998,Inglaterra
+Monmouth,Vodka,6867ae6a-56c3-4626-8b5f-7577bdc4b6bc,5,34.99,3.499,6.998,Inglaterra
+Monmouth,Whiskey,10564bf2-641e-42f4-84c1-039d4f4fbc6b,5,65.99,6.599,13.198,Inglaterra
+Norfolk,Brandy,f22ca44c-9fb6-4140-acbb-fe64a02f5d15,5,14.49,1.449,2.898,Inglaterra
+Norfolk,Cocktail,92554309-f3fc-43c7-95ef-8414e34f5cee,5,8.99,0.899,1.798,Inglaterra
+Norfolk,Cognac,7d4b6094-249d-498e-959b-5c4adc1ad918,7,3.79,0.379,0.758,Inglaterra
+Norfolk,Gin,73843ddb-b265-4372-b82d-3fedce52e0bd,5,26.99,2.699,5.398,Inglaterra
+Norfolk,Licores,058f64c2-874a-4de3-938c-4086d9305ffa,5,13.99,1.399,2.798,Inglaterra
+Norfolk,Otros,8c3809c7-b80d-46a8-92d6-59973d7cec5a,5,13.99,1.399,2.798,Inglaterra
+Norfolk,Ron,7c7d8c61-0744-4cc3-b639-62da764a8580,5,22.99,2.299,4.598,Inglaterra
+Norfolk,Tequila,18073618-e16a-4fe5-a7e4-791f422a67ad,5,39.99,3.999,7.998,Inglaterra
+Norfolk,Vino,122e3e9f-da5b-457b-b51d-8ed112ced791,5,9.99,0.999,1.998,Inglaterra
+Norfolk,Vino Espumoso,2b74bf5a-2c5c-4fa4-a0d4-ee877f13a2eb,5,45.99,4.599,9.198,Inglaterra
+Norfolk,Vodka,1b59d4c0-c976-457e-830d-274eeeac480e,5,0.99,0.099,0.198,Inglaterra
+Norfolk,Whiskey,23c6b5d2-820d-4228-80f2-e631ef15f09c,5,36.99,3.699,7.398,Inglaterra
+Oldham,Brandy,0ed924db-e6a5-43ed-86b0-313db6bb111a,1,15.99,1.599,3.198,Inglaterra
+Oldham,Cocktail,5cba485a-2658-4d99-a42e-b483a8f53c84,1,15.99,1.599,3.198,Inglaterra
+Oldham,Cognac,39ee14dc-9586-40da-850f-8efd561b3e77,1,4.49,0.449,0.898,Inglaterra
+Oldham,Gin,137c80f4-29bb-4cc4-a5fb-8e75cee6080f,1,26.99,2.699,5.398,Inglaterra
+Oldham,Licores,00086e67-d38f-4956-9a10-68e722d2abe0,1,1.49,0.149,0.298,Inglaterra
+Oldham,Otros,1ed14753-a14b-4a18-ae9f-69861271ccda,2,6.99,0.699,1.398,Inglaterra
+Oldham,Ron,05da1b1e-0a30-443e-9ec3-3983b138f905,1,16.99,1.699,3.398,Inglaterra
+Oldham,Tequila,083574ae-e992-4169-a025-bbdec0ec42a6,1,19.99,1.999,3.998,Inglaterra
+Oldham,Vino,005e60be-cfb3-466a-959b-a961776159b7,1,15.99,1.599,3.198,Inglaterra
+Oldham,Vino Espumoso,4df758a6-dc1e-43c4-a3e4-09868da821b3,1,12.99,1.299,2.598,Inglaterra
+Oldham,Vodka,0c09b6a9-3e0d-4c87-b81b-722a738e6be5,1,12.99,1.299,2.598,Inglaterra
+Oldham,Whiskey,01683381-032b-4c26-ba71-0ca4c2c27a95,1,21.99,2.199,4.398,Inglaterra
+Penzance,Brandy,3d774722-475a-42ff-80ed-7710d8aa7511,5,12.99,1.299,2.598,Inglaterra
+Penzance,Cocktail,7fb0d171-a751-4b19-9600-0a9cab2ffd0b,7,10.99,1.099,2.198,Inglaterra
+Penzance,Cognac,00eb1688-4423-4f2d-beac-fcbdb3c97859,9,3.79,0.379,0.758,Inglaterra
+Penzance,Gin,024fe210-871e-43fc-9725-011daffc7408,5,8.99,0.899,1.798,Inglaterra
+Penzance,Licores,016315c8-ce8e-4f2d-9f4a-482db54b1f10,5,28.99,2.899,5.798,Inglaterra
+Penzance,Otros,d95bc6ea-7795-447a-b54a-2d00c8e3d536,5,5.99,0.599,1.198,Inglaterra
+Penzance,Ron,8d293be1-6e02-483b-8a0c-8f7a352529f7,5,13.99,1.399,2.798,Inglaterra
+Penzance,Tequila,e87b62e7-7096-4d75-a721-71d428a86a7d,5,34.99,3.499,6.998,Inglaterra
+Penzance,Vino,01e8f0e7-f334-43ba-a444-3cda4042fbc8,5,109.99,10.999,21.998,Inglaterra
+Penzance,Vino Espumoso,84aad63e-2456-460f-8540-5d43946a53c8,5,68.99,6.899,13.798,Inglaterra
+Penzance,Vodka,288f5f7a-3807-450e-94ec-4720da51cc43,5,38.99,3.899,7.798,Inglaterra
+Penzance,Whiskey,0e11e906-926e-450d-949a-ff1ffedfdbb8,5,68.99,6.899,13.798,Inglaterra
+Pontypridd,Brandy,b2182706-a3a0-46e0-a94c-66de16b7f0ac,18,23.49,2.349,4.698,Gales
+Pontypridd,Cocktail,f04bfdf6-a693-4ce8-88d1-35b314ff3e1b,15,8.99,0.899,1.798,Gales
+Pontypridd,Cognac,0b3ad9e9-1ad9-4a47-8506-5121d2e67acc,9,28.99,2.899,5.798,Gales
+Pontypridd,Gin,8563d4a3-bbb0-4c08-8bae-72af52fc9552,5,31.99,3.199,6.398,Gales
+Pontypridd,Licores,254e3b4e-e0b6-4941-aafb-0760b1278bb2,5,16.99,1.699,3.398,Gales
+Pontypridd,Otros,e8925fa0-ac15-47f7-aa1b-78561a5c7ce3,12,29.99,2.999,5.998,Gales
+Pontypridd,Ron,c4b6c4cc-d372-46b2-8457-bb82ebb974cd,5,18.99,1.899,3.798,Gales
+Pontypridd,Tequila,b63a4444-1e64-4a1e-ba39-dce6d4135047,5,26.99,2.699,5.398,Gales
+Pontypridd,Vino,085b246a-4a20-49a4-a2a3-bb50feb7295a,5,36.99,3.699,7.398,Gales
+Pontypridd,Vino Espumoso,ef66d42a-90ee-475c-a10b-eee3ac3183df,5,45.99,4.599,9.198,Gales
+Pontypridd,Vodka,2adf4273-e6ce-4bb7-a519-9f91b968a50b,5,14.99,1.499,2.998,Gales
+Pontypridd,Whiskey,205d708e-f800-4571-a04d-dc9dd1f2b681,5,43.99,4.399,8.798,Gales
+Salisbury,Brandy,882d71d4-273a-410a-a129-38d5048afba7,5,0.99,0.099,0.198,Inglaterra
+Salisbury,Cocktail,1321d37a-fb29-467e-9948-5f780b13de1a,7,11.99,1.199,2.398,Inglaterra
+Salisbury,Cognac,3cf98cf2-d6de-42c3-9eca-8dcca59366da,7,34.99,3.499,6.998,Inglaterra
+Salisbury,Gin,c8acadc8-b2e9-48aa-a42e-9a4894229b8c,9,24.99,2.499,4.998,Inglaterra
+Salisbury,Licores,14716674-0715-4a32-aca2-d2a0afc643f5,5,18.99,1.899,3.798,Inglaterra
+Salisbury,Otros,a383deb9-902c-4ec9-8ded-c7d1fbb39c11,7,28.99,2.899,5.798,Inglaterra
+Salisbury,Ron,0d43fae3-7405-4769-8c68-bbd7ea2e74e6,5,27.99,2.799,5.598,Inglaterra
+Salisbury,Tequila,487faf70-d17f-4a46-92a0-286ed9a5fb33,5,14.49,1.449,2.898,Inglaterra
+Salisbury,Vino,080febe8-01bb-4120-838c-e22da0db5178,5,12.99,1.299,2.598,Inglaterra
+Salisbury,Vino Espumoso,e613220a-8863-475a-a30f-64e1f7626ebf,5,16.99,1.699,3.398,Inglaterra
+Salisbury,Vodka,0f71dce4-35dc-4c4b-9352-41a4451bba98,5,12.99,1.299,2.598,Inglaterra
+Salisbury,Whiskey,42e0322d-df1a-46d1-baac-9cee752d4cd7,5,41.99,4.199,8.398,Inglaterra
+Southwark,Brandy,6bea146d-4cb9-4ae3-a0e6-32880f4cd850,6,39.98,3.998,7.996,Inglaterra
+Southwark,Cocktail,560871c9-3217-43a3-b0d4-2abda6f664be,5,8.99,0.899,1.798,Inglaterra
+Southwark,Cognac,cb120508-aaba-4ed0-b64b-96176b088be3,5,51.99,5.199,10.398,Inglaterra
+Southwark,Gin,d7261748-8899-4fb8-b6cd-03d0f7281f32,5,34.99,3.499,6.998,Inglaterra
+Southwark,Licores,42ad83c7-bc7b-471d-8016-3a224931d419,5,8.99,0.899,1.798,Inglaterra
+Southwark,Otros,44e1f5f1-b84a-4f11-810a-6212ce74018d,12,55.96,5.596,11.192,Inglaterra
+Southwark,Ron,27052f95-3f16-4957-93eb-52aab9b1c8ea,5,14.99,1.499,2.998,Inglaterra
+Southwark,Tequila,67f2ef8f-2798-430b-9514-b12c4ccbe2e1,5,9.29,0.929,1.858,Inglaterra
+Southwark,Vino,07c131af-b7b0-4e2b-ba77-41ff55edf5e3,5,8.99,0.899,1.798,Inglaterra
+Southwark,Vino Espumoso,140720c2-f7d8-4b11-937e-43b504273f35,5,10.99,1.099,2.198,Inglaterra
+Southwark,Vodka,343c35e9-e2e5-468d-9066-50b5b639b41c,5,26.99,2.699,5.398,Inglaterra
+Southwark,Whiskey,063f7f20-8ec2-41f9-a6c4-20b1a2314130,5,25.99,2.599,5.198,Inglaterra
+Stanmore,Brandy,d7174299-b049-4aad-adc9-9881629b934d,5,44.99,4.499,8.998,Inglaterra
+Stanmore,Cocktail,06c4b62c-945f-426b-94e6-eb70e7467327,7,10.99,1.099,2.198,Inglaterra
+Stanmore,Cognac,1ee1aa50-0cb2-4ad9-99ed-e35979bddea7,7,149.99,14.999,29.998,Inglaterra
+Stanmore,Gin,338f2463-94e6-41b0-8f0c-ac1c56abc6d2,5,6.99,0.699,1.398,Inglaterra
+Stanmore,Licores,2fe565d0-5d52-4b87-83ee-380128d6725c,5,19.99,1.999,3.998,Inglaterra
+Stanmore,Otros,1e3d3895-c1e0-4fc1-bcf0-9726c0e7c51b,7,19.99,1.999,3.998,Inglaterra
+Stanmore,Ron,306c2fe2-1fcf-4cdb-b648-e167668214e6,5,23.99,2.399,4.798,Inglaterra
+Stanmore,Tequila,00663740-a8b8-46c6-b1ae-b9fc3ae26fc0,5,54.99,5.499,10.998,Inglaterra
+Stanmore,Vino,0270eea7-2de2-4aad-87be-8c8d19e4d6d4,5,9.99,0.999,1.998,Inglaterra
+Stanmore,Vino Espumoso,611a18ef-8a41-4868-8bca-1d72a1e64da9,5,35.99,3.599,7.198,Inglaterra
+Stanmore,Vodka,4e912f73-3af1-4b6b-96ec-aa09f77584b1,5,23.99,2.399,4.798,Inglaterra
+Stanmore,Whiskey,2e8b3920-7974-4c98-a379-c2339c6ea76f,5,59.99,5.999,11.998,Inglaterra
+Sutton,Brandy,3a35ca5b-1ecd-4cae-8b55-e51ac2796152,5,10.49,1.049,2.098,Inglaterra
+Sutton,Cocktail,5882966f-a1d7-4799-af11-2e96e8b943a8,5,15.99,1.599,3.198,Inglaterra
+Sutton,Cognac,18d78565-d756-49f5-b159-f99581e8cf57,5,69.99,6.999,13.998,Inglaterra
+Sutton,Gin,ee53d3f3-18fa-41ef-83b2-f3721c6fc357,5,12.99,1.299,2.598,Inglaterra
+Sutton,Licores,228bd9b3-eba9-4c8f-95b0-6927bffd0169,5,8.99,0.899,1.798,Inglaterra
+Sutton,Otros,10bf20ce-8f8d-4173-8ff8-1bdcbb0126b9,7,14.99,1.499,2.998,Inglaterra
+Sutton,Ron,5a3796b9-1104-446f-a160-06e4fdbab32d,5,24.99,2.499,4.998,Inglaterra
+Sutton,Tequila,7f5cced6-0cc8-4963-b293-5c5fbcc81001,5,11.99,1.199,2.398,Inglaterra
+Sutton,Vino,1cdeaf8b-e797-4e87-9536-769989b72761,5,14.99,1.499,2.998,Inglaterra
+Sutton,Vino Espumoso,bebd59e4-d848-4a7a-a7a8-f9540d07dcf5,7,13.99,1.399,2.798,Inglaterra
+Sutton,Vodka,12d2e0a6-bbe1-407c-9a91-f2a9d0a0d43a,5,17.99,1.799,3.598,Inglaterra
+Sutton,Whiskey,013b4999-7928-4a15-8984-b357f5da8509,5,52.99,5.299,10.598,Inglaterra
+Tamworth,Brandy,e050556b-0881-4065-b519-c30e71a94e98,1,10.99,1.099,2.198,Inglaterra
+Tamworth,Cocktail,6db2f127-26bf-40ee-a0c6-61ca13f9e9f6,1,9.99,0.999,1.998,Inglaterra
+Tamworth,Cognac,a73003d8-862b-4d4c-ad69-5beceb259a77,1,69.99,6.999,13.998,Inglaterra
+Tamworth,Gin,6b481f25-02ee-4c56-9e14-ffa190c33508,1,16.99,1.699,3.398,Inglaterra
+Tamworth,Licores,101fc990-e1b5-44a5-9447-597ad98d0d15,1,8.99,0.899,1.798,Inglaterra
+Tamworth,Otros,49da4f92-4df1-4266-9ab2-56322f890b33,3,18.99,1.899,3.798,Inglaterra
+Tamworth,Ron,0d1787e3-97a4-4714-b425-ba317c98634a,1,21.99,2.199,4.398,Inglaterra
+Tamworth,Tequila,86ec902e-ea86-4484-8e69-0306c8e24c1e,1,26.99,2.699,5.398,Inglaterra
+Tamworth,Vino,00e21567-c3e7-4cd2-9bcd-f733b678f165,1,9.99,0.999,1.998,Inglaterra
+Tamworth,Vino Espumoso,2306cf1a-1e33-45fa-9869-ac5c44cdaf20,1,15.99,1.599,3.198,Inglaterra
+Tamworth,Vodka,017ee193-468a-4718-9b72-0b66c3cfa5d3,1,24.99,2.499,4.998,Inglaterra
+Tamworth,Whiskey,047e285b-68bd-4b34-bb6d-04df2fddd65b,1,24.99,2.499,4.998,Inglaterra
+West Bromwich,Brandy,3732b6c2-7701-4efd-8274-1553bf1c9fc7,1,15.99,1.599,3.198,Inglaterra
+West Bromwich,Cocktail,ab3a0335-d3d9-4ef3-85fa-3a902e2dad5d,1,10.99,1.099,2.198,Inglaterra
+West Bromwich,Cognac,4c6e9a4d-402d-4aaa-a1c0-de51a3ad0187,1,22.99,2.299,4.598,Inglaterra
+West Bromwich,Gin,21a08809-10ee-4cea-b6ab-49ad5840dcd0,1,24.99,2.499,4.998,Inglaterra
+West Bromwich,Licores,03684fb3-e18f-4f16-9d50-d50f4ddbb3e1,1,28.99,2.899,5.798,Inglaterra
+West Bromwich,Otros,0946c557-1a49-4551-b40a-18f96d172099,1,12.99,1.299,2.598,Inglaterra
+West Bromwich,Ron,24082d4e-69f3-47bb-985e-5a30d927b928,1,33.99,3.399,6.798,Inglaterra
+West Bromwich,Tequila,12215a01-91dd-4b14-b268-0eecec0560a0,1,17.99,1.799,3.598,Inglaterra
+West Bromwich,Vino,00154270-ccb0-4178-a227-3fdc07501f72,1,17.99,1.799,3.598,Inglaterra
+West Bromwich,Vino Espumoso,21e2e4b6-5c46-4c99-8014-a6627f5a192a,1,41.99,4.199,8.398,Inglaterra
+West Bromwich,Vodka,108a24ee-94b9-4b4c-8ed8-fcafd2f4364a,1,39.99,3.999,7.998,Inglaterra
+West Bromwich,Whiskey,052f2fc0-b4c0-46a0-ba6e-63698781786f,1,21.99,2.199,4.398,Inglaterra
+Winterton,Gin,2b2ac0d4-a8e8-4302-a797-47f3bbd2a7e5,1,27.99,2.799,5.598,Inglaterra
+Winterton,Licores,da54044e-3590-4a5a-958f-33b71272e854,1,28.99,2.899,5.798,Inglaterra
+Winterton,Otros,1ab3222b-11e4-4cf2-b6b4-6163c8bcdc85,1,11.99,1.199,2.398,Inglaterra
+Winterton,Tequila,134ff073-5cf7-4e37-ba5e-e4bd2fb55c38,1,10.99,1.099,2.198,Inglaterra
+Winterton,Vino,01d344d5-f41d-46de-a374-da2ce5ee26d6,1,7.99,0.799,1.598,Inglaterra
+Winterton,Vino Espumoso,04c92507-2cbb-4a0d-a8b4-434aed74b9ba,1,12.99,1.299,2.598,Inglaterra
+Winterton,Vodka,1ac2174e-55f0-4a96-a519-811cd10869ec,1,12.99,1.299,2.598,Inglaterra
+Winterton,Whiskey,00bbbde4-d0a4-465d-8401-cfc97ec2ebcb,1,21.99,2.199,4.398,Inglaterra
