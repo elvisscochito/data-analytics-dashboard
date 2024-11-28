@@ -1,2 +1,2 @@
 # data-analytics-dashboard
-Danu Analítica Mockup Dashboard
+Danu Analítica Mockup Dashboarda
